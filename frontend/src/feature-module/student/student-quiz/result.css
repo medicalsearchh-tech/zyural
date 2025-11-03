@@ -1,0 +1,11 @@
+/* Add these styles to your CSS file for better visual presentation */
+
+.quiz-results-page {
+  /* Progress bar enhancements */
+  .progress {
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    overflow: visible;
+    position: relative;
+  }
+}
